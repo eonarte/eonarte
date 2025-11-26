@@ -2,7 +2,7 @@
 
 > *"Unindo a lógica da programação à sensibilidade da Arteterapia e Neurociência para criar soluções tecnológicas humanizadas."*
 
-Sou um profissional polímata que inclui constantes estudos e serviços em Tecnologia da Informação, trazendo uma bagagem robusta de **Administração** e **Educação**. Atualmente focado no desenvolvimento Full Stack e na intersecção entre Tecnologia, Arte e Desenvolvimento Humano (EdTech/HealthTech).
+Sou um profissional polímata que inclui constantes estudos e serviços em **Tecnologia da Informação**, trazendo uma bagagem robusta de **Administração** e **Educação**. Atualmente focado no desenvolvimento Full Stack e na intersecção entre Tecnologia, **Arte** e **Desenvolvimento Humano** (EdTech/HealthTech).
 
 ---
 
