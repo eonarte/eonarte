@@ -1,4 +1,4 @@
-### Olá! Sou um Desenvolvedor Full Stack & Gestor Multidisciplinar 🚀
+### Olá! Sou um Desenvolvedor Full Stack & Gestor Multidisciplinar 💗
 
 > *"Unindo a lógica da programação à sensibilidade da Arteterapia e Neurociência para criar soluções tecnológicas humanizadas."*
 
