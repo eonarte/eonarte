@@ -15,7 +15,7 @@ Sou um profissional polímata que inclui constantes estudos e serviços em **Tec
 | 🎓 **Finalizando** | **Sistemas para Internet** | Web Full Stack |
 | 🚀 **Em Curso** | Formações Dio.me | JavaScript, Node.js, TypeScript, React |
 | ✅ **Concluído** | Pós em Gestão de TI (GTI) | Governança, ITIL |
-| ✅ **Concluído** | Certificações Técnicas | Lógica, HTML5, CSS3, PHP8, SQL, GitHub, iAs, Python3, Linux |
+| ✅ **Concluído** | Certificações Técnicas | Lógica, HTML5, CSS3, PHP8, SQL, GitHub, iAs, Python3, Linux (Debian, Ubuntu, Mint)|
 
 #### 2. 🧠 Humanidades & Educação (O Diferencial)
 *Entendendo pessoas e processos de aprendizado*
