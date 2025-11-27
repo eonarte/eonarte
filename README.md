@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Olá! Sou um Desenvolvedor Full Stack & Gestor Multidisciplinar 💗
+# Olá! Sou Leon, um Desenvolvedor Full Stack & Gestor Multidisciplinar 💗
 
 > *"Unindo a lógica da programação à sensibilidade da Arteterapia e Neurociência para criar soluções tecnológicas humanizadas."*
 
@@ -77,8 +77,8 @@ Sou um profissional **polímata** que integra estudos constantes em **Tecnologia
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eonarte&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eonarte&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <br>
